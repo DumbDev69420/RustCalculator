@@ -3,7 +3,7 @@ for now just a simple rust calculator and my first rust program.
 
 The Calculator works pretty simple. 
 
-Example: 1 + 1 after entering it, it will return the anwser and exit.
+Example: 1 + 1 after entering it, it will return the anwser and loop.
 
 you can exit the application by either closing it or typing exit in the program
 
